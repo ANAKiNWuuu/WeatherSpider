@@ -2,7 +2,7 @@
 
 ## 天氣資料爬蟲  
 http://e-service.cwb.gov.tw/HistoryDataQuery/  
-從中央氣象局抓取氣象監測站資料，可以選定指定日期範圍  
+從中央氣象局抓取氣象監測站資料，可以選定指定日期範圍，並將資料存為csv檔。  
 
 runbug.py  
 y = 指定年份範圍  
